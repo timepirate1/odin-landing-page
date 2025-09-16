@@ -15,7 +15,7 @@ body{
     font-size: 18px;
     
 }
-.hero{
+.hero,.information{
     padding-left: 60px;
     padding-right: 60px;
 }
@@ -85,4 +85,29 @@ ul{
      height: 100%;
      width: 100%;
      object-fit: cover ;
+}
+
+
+.information-heading{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.information-subtext{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.subtext-image{
+    height: 200px;
+    width:  150px;
+  
+    object-fit: cover;
+}
+
+.subtext-text{
+    max-width: 150px;
+    text-align: center;
 }
