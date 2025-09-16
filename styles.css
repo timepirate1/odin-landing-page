@@ -111,3 +111,24 @@ ul{
     max-width: 150px;
     text-align: center;
 }
+
+.quote-div{
+    background-color: #E5E7EB;
+    padding-left: 320px;
+    padding-right: 325px
+}
+
+.quote-text{
+    padding-top: 40px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+
+.quote-authour{
+    margin-top: 0px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+}
